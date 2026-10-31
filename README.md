@@ -29,6 +29,9 @@ Welcome to the **Ultimate DevOps, SRE & Platform Engineering Interview Guide**! 
 | 🎯 **Mock Interviews & Scenarios** | **50** | Senior/Lead System Design Rounds, Live Outage Triage (504, OOM, DNS storms), SRE Leadership | [Explore](mock-interviews/README.md) |
 | **TOTAL** | **2,200+** | **Comprehensive, Production-Ready, FAANG & Enterprise Interview Preparation** | |
 
+> [!TIP]
+> **Prefer offline reading?** Download the complete collection as a single PDF: **[DevOps-Interview-Questions-and-Answers.pdf](DevOps-Interview-Questions-and-Answers.pdf)** (all 2,200 questions and answers from the 12 modules above). Regenerate it anytime with `python3 scripts/build_pdf.py`.
+
 ---
 
 ## 🗺️ Modern DevOps Career Learning Roadmap
